@@ -1,2 +1,2 @@
-# beginner
-Repository for all beginner python exercises
+# beginner-exercises
+Repository for all beginner python exercises!
